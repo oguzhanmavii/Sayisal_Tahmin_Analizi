@@ -1,0 +1,16 @@
+E:\tahmin_et\tahmin_et\tahmin_et\bin\Debug\net5.0\tahmin_et.exe
+E:\tahmin_et\tahmin_et\tahmin_et\bin\Debug\net5.0\tahmin_et.deps.json
+E:\tahmin_et\tahmin_et\tahmin_et\bin\Debug\net5.0\tahmin_et.runtimeconfig.json
+E:\tahmin_et\tahmin_et\tahmin_et\bin\Debug\net5.0\tahmin_et.runtimeconfig.dev.json
+E:\tahmin_et\tahmin_et\tahmin_et\bin\Debug\net5.0\tahmin_et.dll
+E:\tahmin_et\tahmin_et\tahmin_et\bin\Debug\net5.0\ref\tahmin_et.dll
+E:\tahmin_et\tahmin_et\tahmin_et\bin\Debug\net5.0\tahmin_et.pdb
+E:\tahmin_et\tahmin_et\tahmin_et\obj\Debug\net5.0\tahmin_et.csproj.AssemblyReference.cache
+E:\tahmin_et\tahmin_et\tahmin_et\obj\Debug\net5.0\tahmin_et.GeneratedMSBuildEditorConfig.editorconfig
+E:\tahmin_et\tahmin_et\tahmin_et\obj\Debug\net5.0\tahmin_et.AssemblyInfoInputs.cache
+E:\tahmin_et\tahmin_et\tahmin_et\obj\Debug\net5.0\tahmin_et.AssemblyInfo.cs
+E:\tahmin_et\tahmin_et\tahmin_et\obj\Debug\net5.0\tahmin_et.csproj.CoreCompileInputs.cache
+E:\tahmin_et\tahmin_et\tahmin_et\obj\Debug\net5.0\tahmin_et.dll
+E:\tahmin_et\tahmin_et\tahmin_et\obj\Debug\net5.0\ref\tahmin_et.dll
+E:\tahmin_et\tahmin_et\tahmin_et\obj\Debug\net5.0\tahmin_et.pdb
+E:\tahmin_et\tahmin_et\tahmin_et\obj\Debug\net5.0\tahmin_et.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tahmin_et/1.0.0": {
+        "runtime": {
+          "tahmin_et.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tahmin_et/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
